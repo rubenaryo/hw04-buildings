@@ -4,6 +4,8 @@ Casa is a procedural house generator built in Houdini and based on the aesthetic
 ![](img/final.png)
 
 ## Demo
+https://github.com/user-attachments/assets/c5b8c8bc-3dfe-40c8-a4c3-e9e4c35ac87c
+
 
 
 ## Reference
