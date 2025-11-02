@@ -1,5 +1,7 @@
 # Casa
-Casa is a procedural house generator built in Houdini and based on the aesthetic of the houses within the "Ciudad Amurallada" (Walled City) of Cartagena, Colombia. 
+Casa is a procedural house generator built in Houdini and based on the colorful houses within the "Ciudad Amurallada" (Walled City) of Cartagena, Colombia. 
+
+The generator procedurally places a spanish-style balcony, archways, and windows along the building's facade and allows the user control over the dimensions of each floor
 
 ![](img/final.png)
 
